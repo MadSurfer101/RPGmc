@@ -1,0 +1,40 @@
+# RPGmc
+Warrior:
+  int: 0
+  vit: 10
+  dex: 0
+  str: 10
+  spells:
+    xxx: Speed
+    oxx: SwordSpell
+    oxo: ArmorSpell
+Archer:
+  int: 0
+  vit: 10
+  dex: 10
+  str: 0
+  spells:
+    xxx: Speed
+    xoo: TripleShot
+    xxo: ArrowHail
+    xox: InvisibleSpell
+Mage:
+  int: 10
+  vit: 10
+  dex: 0
+  str: 0
+  spells:
+    xxx: Speed
+    xox: InvisibleSpell
+    oxx: Explosion
+    oxo: BlackArmor
+Pyromancer:
+ int: 8
+ vit: 10
+ dex: 5
+ str: 3
+ spells:
+   xxx: FireBolt
+   xox: Incinerate
+   oxx: FireWall
+   xxo: PheonixFlame
